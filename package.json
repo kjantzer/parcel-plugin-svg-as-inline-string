@@ -1,0 +1,16 @@
+{
+  "name": "parcel-plugin-svg-as-inline-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel-bundler",
+    "parcel",
+    "plugin"
+  ],
+  "author": "Kevin Jantzer",
+  "license": "ISC"
+}
